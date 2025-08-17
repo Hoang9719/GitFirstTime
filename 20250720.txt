@@ -1,0 +1,8 @@
+2025/07/20
+
+abstract : khi muon dung abstract cho phuong thuc thi khi khai bao class ta cung phai dung tu khoa abstract truoc tu khoa class
+		abstract class Shape { public abstract void Draw(); }
+
+vitual : khong phai tu khoa dung khi khai bao class ma la dung cho khi khai bao method.
+
+muon goi bat khi mot method, truy cap truc tiep tu mot class nao thi minh se khai bao class,phuong thuc do voi static.
